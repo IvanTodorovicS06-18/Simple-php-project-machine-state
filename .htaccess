@@ -1,0 +1,4 @@
+ErrorDocument 404 http://localhost/phpstormprojekat/404.php
+
+
+

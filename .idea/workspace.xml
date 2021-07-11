@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4499743a-8f92-46c5-9330-669e1c8f60ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zf6P04M0oJgf3eJJWRZmOOfOKk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\phpstormprojekat\db" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\phpstormprojekat" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4499743a-8f92-46c5-9330-669e1c8f60ae" name="Default Changelist" comment="" />
+      <created>1585217772966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585217772966</updated>
+      <workItem from="1585217774107" duration="2506000" />
+      <workItem from="1585297624860" duration="9009000" />
+      <workItem from="1585576804499" duration="10837000" />
+      <workItem from="1585666472775" duration="17822000" />
+      <workItem from="1585730129187" duration="25671000" />
+      <workItem from="1585824981819" duration="21793000" />
+      <workItem from="1585897397822" duration="456000" />
+      <workItem from="1585924181989" duration="1201000" />
+      <workItem from="1586194133777" duration="5088000" />
+      <workItem from="1586276445690" duration="20968000" />
+      <workItem from="1586338893272" duration="32077000" />
+      <workItem from="1586421817521" duration="29318000" />
+      <workItem from="1586502196631" duration="959000" />
+      <workItem from="1586518403520" duration="17931000" />
+      <workItem from="1587504023458" duration="1937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#SQL_Dialects" timestamp="1585677779624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1585677779624" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585677800805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585677800805" />
+    <state x="679" y="393" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585583158059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="393" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585583158059" />
+    <state x="739" y="513" key="NewPhpFileDialog" timestamp="1586461320443">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="513" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586461320443" />
+    <state x="406" y="232" key="SettingsEditor" timestamp="1585319424684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="406" y="232" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585319424684" />
+    <state x="601" y="414" key="com.intellij.ide.util.TipDialog" timestamp="1587504024708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="414" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587504024708" />
+    <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1585683731035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="118" width="607" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585683731035" />
+  </component>
+</project>
